@@ -27,6 +27,7 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 |1.4|Node-Red   | 3.0.2 |Freeware|
 |1.5|Node.js  | 18.13.0 |Freeware|
 |1.6|Maria DB | 10.3 |Freeware|
+|1.7|Telegram | 9.6.1 |Freeware|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
