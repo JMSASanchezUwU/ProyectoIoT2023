@@ -41,8 +41,8 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 |2.8| Botón  | Solo un sencillo botón. |![image](https://user-images.githubusercontent.com/106613839/233920323-8ebc0cce-451c-405e-8347-b46cbf8722b1.png)| 1 | $10 |
 |2.9| MQ-2  | Sensor que detecta humo y gas.|![image](https://user-images.githubusercontent.com/106613839/233920671-4e8d8db1-8f5b-4ed4-85db-b6a6f2bd4ed5.png)| 1 | $75 |
 |2.10| Display OLED  | Pantalla con tecnología OLED que emite luz propia y nítida. |![image](https://user-images.githubusercontent.com/106613839/233921614-5501b5f8-bc25-4e67-9ae6-b3f3069594ad.png)| 1 | $95 |
-|2.11| MQ-2  | Sensor que detecta humo y gas.|![image](https://user-images.githubusercontent.com/106613839/233920671-4e8d8db1-8f5b-4ed4-85db-b6a6f2bd4ed5.png)| 1 | $75 |
-|2.12| Placa fenólica | Placa hecha de papel impregnado con resina fenólica endurecida. Es un circuito impreso. |![image](https://user-images.githubusercontent.com/106613839/233930710-8fb3ca33-d93f-4d8d-ac8f-adf434ff0cbd.png)| 1 | $22 |
+ $75 |
+|2.11| Placa fenólica | Placa hecha de papel impregnado con resina fenólica endurecida. Es un circuito impreso. |![image](https://user-images.githubusercontent.com/106613839/233930710-8fb3ca33-d93f-4d8d-ac8f-adf434ff0cbd.png)| 1 | $22 |
 
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
