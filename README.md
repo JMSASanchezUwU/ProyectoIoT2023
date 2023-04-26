@@ -63,6 +63,12 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 | 3.5 | Yo como usuario quiero poder consultar las detecciones que se dieron en cada activación del dispositivo. | Semi-Alta | 1 Mes | A través de un dispositivo móvil | Brandon |
 | 3.6 |  Yo como usuario quiero saber la humedad y temperatura de un cierto espacio. | Semi-Alta | 2 semanas | A través de un dispositivo móvil | José Manuel |
 
+## Nodos Node-Red
+![image](https://user-images.githubusercontent.com/106613839/234464865-81efae24-48de-478c-ac50-ea1d0ec49f73.png)
+
+## Dashboard Node-red
+![image](https://user-images.githubusercontent.com/106613839/234465300-fdd73a48-3c24-4ce1-9844-77a5ccca5959.png)
+
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 ![image](https://user-images.githubusercontent.com/106613839/233937328-e5c8ec09-7483-45c5-b03a-d755075017e8.png)
